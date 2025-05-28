@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://app.daily.dev/samuelaboelkhir"><img src="https://api.daily.dev/devcards/v2/0frhuCg2yJO9qoQDBLUbT.png?r=h36&type=default" width="356" alt="Samuel Aboelkhir's Dev Card"/></a>
 
 <!--
 **SamuelAboelkhir/SamuelAboelkhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
