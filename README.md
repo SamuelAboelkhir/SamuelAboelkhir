@@ -1,5 +1,4 @@
 <a href="https://app.daily.dev/samuelaboelkhir"><img src="https://api.daily.dev/devcards/v2/0frhuCg2yJO9qoQDBLUbT.png?r=h36&type=wide" width="652" alt="Samuel Aboelkhir's Dev Card"/></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SamuelAboelkhir/SamuelAboelkhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
