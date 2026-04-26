@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/samuelaboelkhir"><img src="https://api.daily.dev/devcards/v2/0frhuCg2yJO9qoQDBLUbT.png?r=h36&type=wide" width="652" alt="Samuel Aboelkhir's Dev Card"/></a>
 
-<div href=![Stats](https://github-readme-stats.vercel.app/api/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark)></div>
-<div href=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark&layout=compact)></div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark&layout=compact" />
 <!--![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelAboelkhir)
 <!--
 **SamuelAboelkhir/SamuelAboelkhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
