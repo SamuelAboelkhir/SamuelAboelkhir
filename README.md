@@ -1,5 +1,9 @@
 <a href="https://app.daily.dev/samuelaboelkhir"><img src="https://api.daily.dev/devcards/v2/0frhuCg2yJO9qoQDBLUbT.png?r=h36&type=wide" width="652" alt="Samuel Aboelkhir's Dev Card"/></a>
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/608544f2-1e6c-4c51-9706-6ab2f5060647/thumbnail" >
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark" />
 <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="./profile/stats.svg" /> -->
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark&layout=compact" />
