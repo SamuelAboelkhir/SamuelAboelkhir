@@ -1,5 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark&layout=compact" />
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-stats-extended.vercel.app/api/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark" />
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/608544f2-1e6c-4c51-9706-6ab2f5060647/thumbnail" >
 </p>
