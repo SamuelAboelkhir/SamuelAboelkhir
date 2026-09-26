@@ -1,3 +1,9 @@
+Hi, I'm Samuel, a scientist and self taught engineer who loves Go, yet primarily writes typescript. My most recent Go project is a pricing engine for work. The biggest project I'm working on is an ERP system for a logistics company, integrating with IBM i (AS400) systems. I'm also interested in unlocking the full potential of agentic acceleration.
+
+I'm currently learning more about security and cryptography on boot.dev.
+
+- Last book I read: **Execution: The discipline of getting things done**
+
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark&layout=compact" />
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-stats-extended.vercel.app/api/?username=SamuelAboelkhir&hide=html&show_icons=true&theme=vision-friendly-dark" />
 <p align="left">
